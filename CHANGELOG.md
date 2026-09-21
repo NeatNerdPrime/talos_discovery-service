@@ -1,3 +1,37 @@
+## [discovery-service 1.1.2](https://github.com/siderolabs/discovery-service/releases/tag/v1.1.2) (2026-09-21)
+
+Welcome to the v1.1.2 release of discovery-service!
+
+
+
+Please try out the release binaries and report any issues at
+https://github.com/siderolabs/discovery-service/issues.
+
+### Contributors
+
+* Maja Bojarska
+* Andrey Smirnov
+* Steve Wills
+
+### Changes
+<details><summary>4 commits</summary>
+<p>
+
+* [`293c000`](https://github.com/siderolabs/discovery-service/commit/293c000f0c36dee2dbf3233a642354085e8ad599) feat: optimize memory usage of Discovery Service
+* [`dedbdb1`](https://github.com/siderolabs/discovery-service/commit/dedbdb1ef89d96be89e2e732a92ca4e4ec5f8d8e) chore: update golang, direct deps, generate
+* [`3f6e594`](https://github.com/siderolabs/discovery-service/commit/3f6e59476dd1687f5b250dece2bd3f613a3f5812) chore: rekres
+* [`14ae016`](https://github.com/siderolabs/discovery-service/commit/14ae0162569fe54c8349504e2bb3e501f469e279) feat: add flag to configure log level
+</p>
+</details>
+
+### Dependency Changes
+
+* **golang.org/x/net**   v0.58.0 -> v0.59.0
+* **golang.org/x/sync**  v0.22.0 -> v0.23.0
+* **golang.org/x/time**  v0.15.0 -> v0.16.0
+
+Previous release can be found at [v1.1.1](https://github.com/siderolabs/discovery-service/releases/tag/v1.1.1)
+
 ## [discovery-service 1.1.1](https://github.com/siderolabs/discovery-service/releases/tag/v1.1.1) (2026-09-02)
 
 Welcome to the v1.1.1 release of discovery-service!
